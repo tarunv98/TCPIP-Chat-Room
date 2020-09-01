@@ -1,4 +1,6 @@
 # TCP/IP-Chat-Room
+Message broadcasting + Private chat in room
+
 *A NodeJS based chat room application with both server and client codes.*
 
 **Instructions:**
