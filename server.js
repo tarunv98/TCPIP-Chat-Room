@@ -1,7 +1,7 @@
-const { createServer } = require('net');
+const net = require('net');
 const { CONSTANTS } = require("./constants");
 
-const server = createServer();
+const server = net.createServer();
 
 const options = {
     host: CONSTANTS.server_ID,
