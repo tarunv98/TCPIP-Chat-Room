@@ -4,7 +4,7 @@
   "description": "chat app using TCPIP",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js"
+    "test": "node client.js"
   },
   "keywords": [
     "TCPIP",
