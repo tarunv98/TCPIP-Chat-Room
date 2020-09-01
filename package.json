@@ -1,0 +1,15 @@
+{
+  "name": "tcpip-chatroom",
+  "version": "1.0.0",
+  "description": "chat app using TCPIP",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "TCPIP",
+    "Node"
+  ],
+  "author": "Tarun Vasagiri",
+  "license": "ISC"
+}
