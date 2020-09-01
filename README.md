@@ -1,20 +1,22 @@
-# TCPIP-Chat-Room
-A NodeJS based chat room application with both server and client codes.
+# TCP/IP-Chat-Room
+*A NodeJS based chat room application with both server and client codes.*
 
-Instructions:
+**Instructions:**
 1. Download/ Clone the repo and execute the server file:
-
+```
    $ node server.js
-   
-   That's It!
+```   
+   :v:That's It!!:v:
    
 2. You can use the client code or anyother TCP based chat clients like telnet or netcat and connect to localhost 3000
 3. To run client, in a new terminal,
-
+```
    $ node client.js
-
-Features:
+```
+**Features:**
 1. Message broadcasting to all clients by default.
 2. @ username message sends message to partculat user privately.
-   
+```
+@<username> <message>
+ ```  
    
