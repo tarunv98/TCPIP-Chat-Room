@@ -1,5 +1,5 @@
 const net = require('net');
-const { CONSTANTS } = require("./constants");
+const CONSTANTS = require("./constants");
 
 const server = net.createServer();
 
